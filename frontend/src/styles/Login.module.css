@@ -1,0 +1,23 @@
+.form{
+    border: 1px solid var(--bg_color);
+    padding: 30px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 350px;
+}
+
+.input{
+    margin: 20px 0;
+}
+
+.button{
+    margin-top: 10px;
+}
+
+.logout{
+    text-align: center;
+    margin-top: 50px;
+}

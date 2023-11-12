@@ -1,0 +1,21 @@
+.footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 15px 0;
+    border-top: 1px solid #EBE6D6;
+    background-color: #163E6C;
+    color: #EBE6D6;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.info{
+    color:  #EBE6D6;
+}
+
+.telegram{
+    width: 50px;
+}

@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.formcontr{
+    margin: 10px 10px;
+    width: 100%;
+}
+
+.addmachin{
+    margin: 10px 0;
+}

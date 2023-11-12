@@ -1,0 +1,14 @@
+.text{
+    text-align: center;
+    color: var(--main_color);
+}
+
+.input{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.button{
+    text-align: center;
+    margin-left: 10px;
+}
